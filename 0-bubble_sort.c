@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /*
- * bubble_sort - Function that sorts an array of ints
+ *bubble_sort - Function that sorts an array of ints
  * @array - array of ints
  * @size - size of ints
  */
